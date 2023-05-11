@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tobias Van der VAA</h1>
+<h1 align="center">Hi 👋, I'm Tobias Van der Vaart</h1>
 <h3 align="center">A starting software developer from the Netherlands.</h3>
 
 - 🌱 I’m currently learning **Python, JavaScript, HTML and PHP**
