@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my internship for 6 months<br>🌱 I’m currently learning, Flask, Python and Angular<br>💬 I'm 17 and from the Netherlands<br>
+🔭 I’m currently working on my internship for 6 months<br>🌱 I’m currently learning, Flask, Python and Angular<br>💬 I'm 18 and from the Netherlands<br>
 
 
 ## 🌐 Socials:
