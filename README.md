@@ -1,5 +1,13 @@
-# 💫 About Me:
-🔭 I’m currently working on my internship for 6 months<br>🌱 I’m currently learning, Flask, Python and Angular<br>💬 I'm 18 and from the Netherlands<br>
+👋 Hi there, I'm Tobias Van der Vaart!
+
+🌍 18 years old | 🇳🇱 Netherlands
+🎓 Second-year Software Developer student at Da Vinci College
+💼 Currently on a 6-month internship
+
+👨‍💻 Passionate about coding and solving real-world problems
+💡 Always eager to learn and explore new technologies
+🚀 Enthusiastic about open source projects and collaboration
+📚 Building a strong foundation in software development
 
 
 ## 🌐 Socials:
